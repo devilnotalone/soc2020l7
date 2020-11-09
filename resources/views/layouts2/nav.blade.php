@@ -7,12 +7,12 @@
         <span class="ml-3 text-xl">สำนักวิชาสังคมศาสตร์</span>
       </a>
       <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
-        <a class="mr-5 hover:text-gray-900">หน้าแรก</a>
-        <a class="mr-5 hover:text-gray-900">เกี่ยวกับ</a>
-        <a class="mr-5 hover:text-gray-900">หลักสูตร</a>
-        <a class="mr-5 hover:text-gray-900">บุคลากร</a>
-        <a class="mr-5 hover:text-gray-900">งานวิจัย</a>
-        <a class="mr-5 hover:text-gray-900">งานวิชาการ</a>
+        <a class="mr-5 hover:text-gray-900" href="{!! url('/') !!}">หน้าแรก</a>
+        <a class="mr-5 hover:text-gray-900" href="{!! url('about') !!}">เกี่ยวกับ</a>
+        <a class="mr-5 hover:text-gray-900" href="{!! url('about') !!}">หลักสูตร</a>
+        <a class="mr-5 hover:text-gray-900" href="{!! url('about') !!}">บุคลากร</a>
+        <a class="mr-5 hover:text-gray-900" href="{!! url('about') !!}">งานวิจัย</a>
+        <a class="mr-5 hover:text-gray-900" href="{!! url('about') !!}">งานวิชาการ</a>
 
         @if (Route::has('login'))
           @auth

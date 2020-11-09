@@ -24,7 +24,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/philosophy-vision') !!}"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>
@@ -33,7 +33,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/identity') !!}"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>
@@ -42,7 +42,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/mission') !!}"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>
@@ -51,7 +51,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/objective') !!}"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>
@@ -60,7 +60,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/goal') !!}"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>
@@ -69,7 +69,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/identities') !!}"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>
@@ -78,7 +78,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/plan') !!}"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>
@@ -87,7 +87,7 @@
                 </a>
             </li>
             <li class="my-px">
-                <a href="#"
+                <a href="{!! url('about/organization-chart') !!}" target="_blank"
                    class="flex flex-row items-center h-12 px-4 rounded-lg text-gray-600 hover:bg-tomato-100">
                     <span class="flex items-center justify-center text-lg text-gray-400">
                         <svg class="h-6 w-6 text-gray-400"  width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">  <path stroke="none" d="M0 0h24v24H0z"/>  <polyline points="7 7 12 12 7 17" />  <polyline points="13 7 18 12 13 17" /></svg>

@@ -46,4 +46,12 @@ Route::resource('users', 'UserController')->middleware('auth');
 /* about */
 
 Route::view('about', 'about.index');
-Route::view('philosophy-vision', 'about.philosophy-vision');
+Route::view('about/philosophy-vision', 'about.philosophy-vision');
+Route::view('about/identity', 'about.identity');
+Route::view('about/mission', 'about.mission');
+Route::view('about/objective', 'about.objective');
+Route::view('about/goal', 'about.goal');
+Route::view('about/identities', 'about.identities');
+Route::view('about/plan', 'about.plan');
+Route::view('about/organization-chart', 'about.org');
+
